@@ -4,7 +4,7 @@
 **Kelompok:** Kelompok 14  
 **Target:** Ubuntu Server (`192.168.14.5`)  
 **Penyerang:** CyberOps Workstation VM (`192.168.14.100`)  
-**Sensor Monitoring:** Security Onion VM (`192.168.14.50`)
+**Monitoring:** Security Onion VM (`192.168.14.50`)
 
 ---
 
